@@ -27,3 +27,6 @@
 - Apache
 - PhpMyAdmin
 
+## Contribuidores
+
+<a href="https://github.com/maiajota/projeto_php/graphs/contributors"><img src="https://imgur.com/j1FPjmB.png" title="contribuidores" alt="contributors" /></a>
